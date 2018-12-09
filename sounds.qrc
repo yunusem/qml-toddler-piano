@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sounds/re.wav</file>
+        <file>sounds/si.wav</file>
+        <file>sounds/mi.wav</file>
+        <file>sounds/la.wav</file>
+        <file>sounds/fa.wav</file>
+        <file>sounds/do.wav</file>
+        <file>sounds/sol.wav</file>
+    </qresource>
+</RCC>
